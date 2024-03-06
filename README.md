@@ -2,7 +2,7 @@
 
 ## Description
 
-I was hired by an agency to help "Horiseon" help their website run a little more smoothly and to also make their page more assessible for all search engines. I started out by cleaning up the code a bit wihtout changing their webpage too much. I just made it more simple to comprehend so that even those with certain disabilitites can use the website without any issues. I also debugged one of the links that was not working properly when you clicked on it. 
+I was hired by an agency to help "Horiseon" with their website run a little more smoothly and to also make their page more assessible for all search engines. I started out by cleaning up the code a bit wihtout changing their webpage design. I made it more simple to comprehend so that even those with certain disabilitites can use the website without any issues. I also debugged one of the links that was not working properly when you clicked on it. 
 
 ## Installation
 
