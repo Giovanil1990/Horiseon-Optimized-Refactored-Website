@@ -14,7 +14,7 @@ https://giovanil1990.github.io/Horiseon-Optimized-Refactored-Website/
 
 ## Screenshot
 
-C:\Users\giova\Pictures\Horiseon Snippet.jpg
+<img src="https://github.com/Giovanil1990/Horiseon-Optimized-Refactored-Website/blob/main/Horiseon%20Snippet.PNG" width="100" height="100">
 
 ## License
 
